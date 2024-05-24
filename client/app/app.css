@@ -1,0 +1,10 @@
+._bg-background {
+    background-color: #FFFFFF;
+    border: 25px solid #F0F0F0;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.bg-content {
+    background-color: #F0F0F0;
+}
